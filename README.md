@@ -20,7 +20,7 @@ How to install on Windows: [Link](https://github.com/PCrnjak/PAROL-commander-sof
 **Using requirements.txt**<br />
 pip install -r requirements.txt 
 
-**Using .exe**  <br />
+**Using .exe TODO**  <br />
 Windows version <br />
 Linux version <br /> 
 
@@ -50,7 +50,7 @@ If you want to contribute you can open issues or pull requests in the GitHub rep
 You can request or say you are working on a feature in the "general" channel of our [Discord]( https://discord.gg/prjUvjmGpZ) or [blog](https://discourse.source-robotics.com/)
 
 # Support
-This project is entirely open source and free for all to use. Any support, whether through donations or advice, is greatly appreciated. Thank you!
+This project is entirely open-source and free for all to use. Any support, whether through donations or advice, is greatly appreciated. Thank you!
 
  [![General badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PCrnjak?locale.x=en_US)
 [![General badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/PCrnjak)
