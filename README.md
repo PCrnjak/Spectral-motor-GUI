@@ -6,9 +6,9 @@
 
 https://source-robotics.com
 
-To run this code you need to use the PAROL6 control board! You can buy it here: [Link!](https://source-robotics.com/products/parol6-control-board)
+This Repo contains GUI for [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller)
 
-# Features
+# GUI Features
 
 PAROL6 is a high-performance 3D-printed desktop robotic arm. The design approach of PAROL6 was to be similar to industrial robots in terms of mechanical design, control software, and usability. Control software, GUI, and robots STL files are open-source. You can build your own PAROL6 robot by following the instructions on this [page](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions).
 
@@ -22,7 +22,7 @@ How to install on Windows: [Link](https://github.com/PCrnjak/PAROL-commander-sof
 <br /> **Also works on MAC, just follow the Linux install guide.
 
 **Using requirements.txt**<br />
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 **Using .exe**
 Windows version <br />
