@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-GPLv3-blue)](https://opensource.org/license/gpl-3-0/)
 
-<img src="Images/screen_2.png" alt="drawing" width="700"/>
+<img src="Images/BLDC_gif.gif" alt="drawing" width="500"/>
 
 https://source-robotics.com
 
