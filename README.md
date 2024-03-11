@@ -30,14 +30,19 @@ Linux version <br />
 
 # Documentation:
 
-How to use PAROL commander software can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/)
+How to use Spectral motor GUI can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/) <br />
+The video guide can be found [here!]()
 
 # More about Spectral motors
-Join [Discord](https://discord.com/invite/prjUvjmGpZ ) community!
+- [Discord](https://discord.com/invite/prjUvjmGpZ )
+- [Forum](https://discourse.source-robotics.com/)
+- [Blog](https://source-robotics.com/blogs/blog)
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
-- [Hackaday](https://hackaday.io/project/167247-faze4-robotic-arm)
+- [Hackaday](https://hackaday.io/project/191860-parol6-desktop-robotic-arm)
 - [Instagram](https://www.instagram.com/5arcrnjak/)
 - [DOCS](https://source-robotics.github.io/PAROL-docs/)
+- [Twitter](https://twitter.com/SourceRobotics)
+
 
 # TODO
 
