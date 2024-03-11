@@ -1,6 +1,6 @@
 # Spectral-motor-GUI
 
-[![License: MIT](https://img.shields.io/badge/license-GPLv3-blue)](https://opensource.org/license/gpl-3-0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <img src="Images/BLDC_gif.gif" alt="drawing" width="500"/>
 
