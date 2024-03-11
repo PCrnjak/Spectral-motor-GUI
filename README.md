@@ -49,4 +49,11 @@ Some features are still missing on the software and hardware side of the Spectra
 If you want to contribute you can open issues or pull requests in the GitHub repo to implement a feature! (Use DEV branch)
 You can request or say you are working on a feature in the "general" channel of our [Discord]( https://discord.gg/prjUvjmGpZ) or [blog](https://discourse.source-robotics.com/)
 
+# Support
+This project is entirely open source and free for all to use. Any support, whether through donations or advice, is greatly appreciated. Thank you!
+
+ [![General badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PCrnjak?locale.x=en_US)
+[![General badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/PCrnjak)
+
 # Project is under MIT Licence
+
