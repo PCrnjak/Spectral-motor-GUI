@@ -20,11 +20,11 @@ How to install on Windows: [Link](https://github.com/PCrnjak/PAROL-commander-sof
 **Using requirements.txt**<br />
 pip install -r requirements.txt 
 
-**Using .exe**
+**Using .exe**  <br />
 Windows version <br />
 Linux version <br /> 
 
-# Documentation:
+# Documentation / How to use:
 
 How to use Spectral motor GUI can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/) <br />
 The video guide can be found [here!]()
@@ -39,14 +39,13 @@ The video guide can be found [here!]()
 - [DOCS](https://source-robotics.github.io/PAROL-docs/)
 - [Twitter](https://twitter.com/SourceRobotics)
 
-
 # TODO
 
 - Connect over CAN bus
 - Trajectories
 
 # 📢📢Contributing to the project 📢📢
-Some features are still missing on the software and hardware side of the PAROL6.
+Some features are still missing on the software and hardware side of the Spectral BLDC and GUI.
 If you want to contribute you can open issues or pull requests in the GitHub repo to implement a feature! (Use DEV branch)
 You can request or say you are working on a feature in the "general" channel of our [Discord]( https://discord.gg/prjUvjmGpZ) or [blog](https://discourse.source-robotics.com/)
 
