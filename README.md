@@ -6,13 +6,9 @@
 
 https://source-robotics.com
 
-To use commander software your PC needs to meet some [minimal hardware specs!](https://github.com/PCrnjak/PAROL-commander-software/blob/main/confirmed_working_systems.md)
-
-Robot arm building instructions, STL files, BOM can be found here: [Link](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
-
 To run this code you need to use the PAROL6 control board! You can buy it here: [Link!](https://source-robotics.com/products/parol6-control-board)
 
-# What is PAROL6 robotic arm?
+# Features
 
 PAROL6 is a high-performance 3D-printed desktop robotic arm. The design approach of PAROL6 was to be similar to industrial robots in terms of mechanical design, control software, and usability. Control software, GUI, and robots STL files are open-source. You can build your own PAROL6 robot by following the instructions on this [page](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions).
 
@@ -28,14 +24,9 @@ How to install on Windows: [Link](https://github.com/PCrnjak/PAROL-commander-sof
 **Using requirements.txt**<br />
 pip install -r requirements.txt
 
-For Linux you will also have to:<br />
-sudo apt-get install python3-tk<br />
-sudo apt-get install python3-pil python3-pil.imagetk<br />
-
-# Dependency
-
-You can compare what Python modules are used on the systems that are proven to work!<br />
-[Dependency](https://github.com/PCrnjak/PAROL-commander-software/tree/main/Working%20dependency)
+**Using .exe**
+Windows version <br />
+Linux version <br /> 
 
 # Documentation:
 
@@ -48,6 +39,10 @@ Join [Discord](https://discord.com/invite/prjUvjmGpZ ) community!
 - [Instagram](https://www.instagram.com/5arcrnjak/)
 - [DOCS](https://source-robotics.github.io/PAROL-docs/)
 
+# TODO
+
+- Connect over CAN bus
+- Trajectories
 
 # 📢📢Contributing to the project 📢📢
 Some features are still missing on the software and hardware side of the PAROL6.
