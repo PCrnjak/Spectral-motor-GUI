@@ -1,6 +1,6 @@
 # Spectral-motor-GUI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![Issues](https://img.shields.io/github/issues/PCrnjak/Spectral-motor-GUI) ![release](https://img.shields.io/github/v/release/PCrnjak/Spectral-motor-GUI)
 
 <img src="Images/BLDC_gif.gif" alt="drawing" width="800"/>
 
