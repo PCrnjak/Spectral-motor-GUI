@@ -26,7 +26,7 @@ Linux version <br />
 
 # Documentation / How to use:
 
-How to use Spectral motor GUI can be found in [DOCS](https://source-robotics.github.io/PAROL-docs/) <br />
+How to use Spectral motor GUI can be found in [DOCS](https://source-robotics.github.io/Spectral-BLDC-docs/) <br />
 The video guide can be found [here!]()
 
 # More about Spectral motors
