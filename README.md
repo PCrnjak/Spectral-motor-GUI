@@ -5,17 +5,25 @@
 <img src="Images/BLDC_gif.gif" alt="drawing" width="800"/>
 
 https://source-robotics.com
+>[!IMPORTANT]  
+**This repo contains GUI for Spectral line of motor drivers** <br />
 
-This Repo contains Software for [Spectral Micro BLDC controller](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller)
+Repo that has firmware for [Spectral Micro BLDC controller](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller) is here
 
 # How to install 
 
 Tested on python 3.10.12 <br />
 
-**Using requirements.txt**<br />
-TODO pip install -r requirements.txt 
+## **Using requirements.txt**<br />
 
-**Using .exe **  <br />
+>[!NOTE] 
+pip install is still TODO
+
+```sh
+pip install -r requirements.txt 
+```
+
+## **Using .exe**  <br />
 [x64 Windows version](https://github.com/PCrnjak/Spectral-motor-GUI/releases) <br />
 Linux version  TODO <br /> 
 
