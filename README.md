@@ -20,9 +20,9 @@ How to install on Windows: [Link](https://github.com/PCrnjak/PAROL-commander-sof
 **Using requirements.txt**<br />
 pip install -r requirements.txt 
 
-**Using .exe TODO**  <br />
-Windows version <br />
-Linux version <br /> 
+**Using .exe **  <br />
+[x64 Windows version](https://github.com/PCrnjak/Spectral-motor-GUI/releases) <br />
+Linux version  TODO <br /> 
 
 # Documentation / How to use:
 
