@@ -6,7 +6,7 @@
 
 https://source-robotics.com
 
-This Repo contains GUI for [Spectral Micro BLDC controller](https://source-robotics.com/products/spectral-micro-bldc-controller)
+This Repo contains Software for [Spectral Micro BLDC controller](https://github.com/PCrnjak/Spectral-Micro-BLDC-controller)
 
 # How to install 
 
